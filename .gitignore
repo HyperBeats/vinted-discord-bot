@@ -1,5 +1,11 @@
 # Node
-app/node_modules
+node_modules
 
-# TS
-app/dist
+# Tests
+test.js
+
+# Config
+config.json
+
+# Database
+db.json
